@@ -20,7 +20,6 @@ public:
 	~Player();
 private:
 	std::vector<sf::RectangleShape> player;
-	std::vector<sf::Vector2f> playerPos;
 };
 
 #endif
